@@ -4,7 +4,7 @@ Brazilian guy, married and father, electrial engineer, life long learner, fall i
 
 - 🔭 I’m currently working on industrial maintenance, actually, realizing a transition to AI position;
 - 🌱 I’m currently learning django, react and tensorflow, I expect to do a mixed with this and develop an SaaS called Orion MS;
-- 🤔 I’m looking for help with distributed systems, so If you dare, please contact me.
+- 🤔 I’m looking for help with distributed systems, so If you want to contribute, please contact me.
 
 [![instagram](https://img.shields.io/badge/hugoriviere-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hugoriviere)
 <!--
