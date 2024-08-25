@@ -7,6 +7,7 @@ Brazilian guy, married and father, electrial engineer, life long learner, fall i
 - 🤔 I’m looking for help with distributed systems, so If you want to contribute, please contact me.
 
 [![instagram](https://img.shields.io/badge/hugoriviere-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hugoriviere)
+[![linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/engenheirohugoriviere)
 <!--
 **hugoadventist/hugoadventist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
